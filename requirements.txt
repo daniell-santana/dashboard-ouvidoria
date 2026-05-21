@@ -1,0 +1,20 @@
+# Coleta
+requests
+beautifulsoup4
+lxml
+
+# Dados
+pandas
+pyarrow     # para .parquet
+openpyxl      # para .xlsx
+
+# IA / Classificação
+openai
+scikit-learn  # métricas de validação
+
+# Dashboard (opcional — servidor leve para o HTML)
+flask
+
+# Dev / Qualidade
+pytest
+python-dotenv
