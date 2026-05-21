@@ -1,4 +1,4 @@
-# Ouvidoria Analytics – Bradesco
+# Ouvidoria Analytics – ReclameAqui
 
 # Dashboard Inteligente para Gestão de Reclamações
 
