@@ -24,45 +24,7 @@ A solução utiliza IA Generativa (GPT-4o) para:
 
 # Arquitetura da Solução
 
-```mermaid
-flowchart TB
-
-A[🌐 Reclame Aqui] --> B[🐍 Pipeline Python]
-B --> C[🧹 Limpeza e Parsing]
-C --> D[🧠 GPT-4o - Classificação]
-D --> E[📦 JSON Estruturado]
-E --> F[📊 Dashboard Analytics]
-F --> G[👨‍💼 Ouvidoria / Gestão]
-
-subgraph IA Generativa
-D
-end
-
-subgraph Camada Analítica
-F
-end
-
-subgraph Gestão Operacional
-G
-end
-```
-
----
-
-# 🔄 Fluxo Operacional Completo
-
-```mermaid
-flowchart LR
-
-A[📥 Coleta Reclame Aqui] --> B[🧹 Pré-processamento]
-B --> C[🧠 Classificação GPT-4o]
-C --> D[📌 Categoria e Subcategoria]
-D --> E[🏢 Área Responsável]
-E --> F[🚨 Definição de Urgência]
-F --> G[💡 Prescrição Operacional]
-G --> H[📊 Dashboard]
-H --> I[👨‍💼 Gestão da Ouvidoria]
-```
+<img width="1440" height="1246" alt="image" src="https://github.com/user-attachments/assets/e026a576-6c57-4652-ad70-3f7696c42dad" />
 
 ---
 
