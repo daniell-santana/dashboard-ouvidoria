@@ -4,6 +4,9 @@
 
 Sistema inteligente de classificação automática de reclamações do Reclame Aqui com direcionamento operacional, análise de SLA e prescrição automatizada de ações corretivas.
 
+Dashboard (acesse pelo link abaixo)
+🔗 https://daniell-santana.github.io/dashboard-ouvidoria/dashboard/ouvidoria_dashboard.html
+
 ---
 
 # Visão Geral
